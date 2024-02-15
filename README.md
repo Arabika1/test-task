@@ -21,3 +21,6 @@ to start project use this command
 docker-compose up --build 
 
 after cloning repository rename .env.example to .env 
+
+
+
